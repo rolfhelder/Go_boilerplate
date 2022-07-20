@@ -26,6 +26,10 @@ This project is a shell script to create a boilerplate for a Go Lang module.
 
 The script does the following:
 
+- Creates diretories /src, /pkg and /bin
+- Creates a template for README.md, .gitignore and main.go
+- Places the main.go file in /src
+ 
 <h2 id="technologies">🧪 Technologies</h2>
 
 Project developed using the following technologies:
